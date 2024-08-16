@@ -1,6 +1,5 @@
 package org.example.testdata.domain;
 
-import jakarta.persistence.criteria.CriteriaBuilder;
 import lombok.*;
 import org.example.testdata.domain.constant.MockDataType;
 
