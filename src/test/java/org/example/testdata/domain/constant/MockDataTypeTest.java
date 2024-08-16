@@ -4,6 +4,10 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+<<<<<<< HEAD
+import static org.junit.jupiter.api.Assertions.*;
+=======
+>>>>>>> 7cba6d1329fbf9e0ae24dfd4deab01a2b315cf43
 
 
 @DisplayName("[Domain] 테스트 데이터 자료형 테스트")

@@ -1,5 +1,9 @@
 package org.example.testdata.domain.constant;
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 7cba6d1329fbf9e0ae24dfd4deab01a2b315cf43
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
@@ -55,5 +59,9 @@ public enum MockDataType {
             String baseType
     ) {}
 
+<<<<<<< HEAD
+}
+=======
 }
 
+>>>>>>> 7cba6d1329fbf9e0ae24dfd4deab01a2b315cf43
